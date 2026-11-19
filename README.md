@@ -18,10 +18,10 @@ half_add_sub.v	Arithmetic-circuit RTL
 half_add_sub_tb.v	Stimulus and VCD generation
 
 ### Verilog Program
-```
+
 <img width="1600" height="898" alt="WhatsApp Image 2026-11-19 at 1 34 39 PM (1)" src="https://github.com/user-attachments/assets/fd60caa2-fb90-4104-97d9-30f6550f7b12" />
 
-```
+
 ### Testbench Program
 
 <img width="1600" height="887" alt="WhatsApp Image 2026-11-19 at 1 34 39 PM" src="https://github.com/user-attachments/assets/1ae10771-2c04-44b5-8a1b-83582327defd" />
